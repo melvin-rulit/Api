@@ -12,7 +12,6 @@
       "deploy": "cd dist && rsync --archive --compress --delete . pepelsbey@pepelsbey.dev:/var/www/pepelsbey.dev/html/"
     },
     "devDependencies": {
-      "browser-sync": "^2.26.7",
       "editorconfig-checker": "^3.1.0",
       "stylelint": "^15.6.0",
       "html-minifier": "^4.0.0",
