@@ -12,7 +12,7 @@
       "deploy": "cd dist && rsync --archive --compress --delete . pepelsbey@pepelsbey.dev:/var/www/pepelsbey.dev/html/"
     },
     "devDependencies": {
-      "editorconfig-checker": "^3.1.0",
+      "editorconfig-checker": "^5.1.2",
       "stylelint": "^15.6.0",
       "html-minifier": "^4.0.0",
       "postcss-cli": "^7.1.1",
