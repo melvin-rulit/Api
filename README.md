@@ -1,3 +1,3 @@
 # AutoBy
-|<img src="https://github.com/melvin-rulit/First-Crm/blob/master/public/images/AutoBy.png">|
+<img src="https://github.com/melvin-rulit/First-Crm/blob/master/public/images/AutoBy.png">
 
